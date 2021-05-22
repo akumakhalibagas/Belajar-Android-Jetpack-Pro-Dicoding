@@ -1,4 +1,4 @@
-package com.makhalibagas.academy
+package com.makhalibagas.moviesaja
 
 import org.junit.Test
 
